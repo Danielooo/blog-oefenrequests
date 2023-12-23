@@ -4,11 +4,11 @@ import './App.css';
 
 
 const examplePost = {
-    title: 'kip',
-    subtitle: 'kippig',
-    content: 'fjdkal;fdjksa;',
+    title: 'test',
+    subtitle: 'test',
+    content: 'test',
     created: 'today',
-    // author: 'de buurman',
+    author: 'de buurman',
     readTime: 2,
     comments: 13,
     shares: 10,
